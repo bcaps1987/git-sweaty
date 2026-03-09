@@ -8098,5 +8098,17 @@
     "start_date_local": "2026-03-07T10:03:51Z",
     "type": "AlpineSki",
     "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 10200.8,
+    "elevation_gain": 25.0,
+    "id": "17658741602",
+    "moving_time": 3292.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-09T11:58:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

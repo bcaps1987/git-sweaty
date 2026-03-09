@@ -4724,6 +4724,13 @@
       "subtype": "AlpineSki",
       "type": "AlpineSki",
       "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 11,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10250,6 +10257,15 @@
           "distance": 13604.2,
           "elevation_gain": 73.0,
           "moving_time": 4271.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17658741602"
+          ],
+          "count": 1,
+          "distance": 10200.8,
+          "elevation_gain": 25.0,
+          "moving_time": 3292.0
         }
       },
       "Swim": {
@@ -10511,7 +10527,7 @@
       }
     }
   },
-  "generated_at": "2026-03-08T15:48:20.902262+00:00",
+  "generated_at": "2026-03-09T17:37:56.977374+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
