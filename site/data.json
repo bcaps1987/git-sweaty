@@ -5109,6 +5109,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 10,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10610,6 +10617,15 @@
           "distance": 122088.0,
           "elevation_gain": 1444.0,
           "moving_time": 17415.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18543213677"
+          ],
+          "count": 1,
+          "distance": 110594.0,
+          "elevation_gain": 1627.0,
+          "moving_time": 16242.0
         }
       },
       "Run": {
@@ -11379,7 +11395,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T16:02:04.402412+00:00",
+  "generated_at": "2026-05-17T16:02:36.187110+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
