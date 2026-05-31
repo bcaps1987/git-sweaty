@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T16:08:32.423373+00:00",
+  "generated_at": "2026-05-31T16:17:10.119254+00:00",
   "years": {
     "2023": {
       "AlpineSki": {
@@ -5544,6 +5544,15 @@
           "distance": 32655.1,
           "elevation_gain": 125.0,
           "moving_time": 4154.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18730911084"
+          ],
+          "count": 1,
+          "distance": 89234.3,
+          "elevation_gain": 686.0,
+          "moving_time": 10390.0
         }
       },
       "Run": {
@@ -6023,6 +6032,15 @@
           "distance": 3837.1,
           "elevation_gain": 44.0,
           "moving_time": 1173.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18730911226"
+          ],
+          "count": 1,
+          "distance": 21095.6,
+          "elevation_gain": 167.0,
+          "moving_time": 6501.0
         }
       },
       "Swim": {
@@ -6223,6 +6241,15 @@
           "distance": 2254.1,
           "elevation_gain": 0.0,
           "moving_time": 3352.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18730911155"
+          ],
+          "count": 1,
+          "distance": 2026.6,
+          "elevation_gain": 0.0,
+          "moving_time": 2901.0
         }
       },
       "VirtualRide": {
@@ -6390,6 +6417,18 @@
           "distance": 8933.7,
           "elevation_gain": 0.0,
           "moving_time": 11147.0
+        }
+      },
+      "Workout": {
+        "2026-05-31": {
+          "activity_ids": [
+            "18730910972",
+            "18730911024"
+          ],
+          "count": 2,
+          "distance": 490.09999999999997,
+          "elevation_gain": 33.0,
+          "moving_time": 294.0
         }
       }
     }
